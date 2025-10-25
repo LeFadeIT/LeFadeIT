@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">a Computer Science Student from Germany!</h3>
-
-- 🌱 I’m currently learning **Flutter, Vue and C++**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/le_fade_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="le_fade_it" height="30" width="40" /></a>
 <a href="https://instagram.com/mike.yeayea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mike.yeayea" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lefadeit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lefadeit" height="30" width="40" /></a>
 </p>
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=LeFadeIT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LeFadeIT&theme=dark&hide_border=false)<br/>
